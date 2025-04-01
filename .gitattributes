@@ -3,3 +3,4 @@
 00_Data/Raw/train.csv filter=lfs diff=lfs merge=lfs -text
 00_Data/Clean/test.csv filter=lfs diff=lfs merge=lfs -text
 00_Data/Raw/test.csv filter=lfs diff=lfs merge=lfs -text
+00_Data/Raw/archive.zip filter=lfs diff=lfs merge=lfs -text
