@@ -1,0 +1,19 @@
+# Librerías generales
+kaggle==1.5.12
+plotly==6.0.0
+scipy==1.15.2
+numpy>=1.26.4
+pandas>=1.5.0
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Machine Learning
+tensorflow>=2.12.0
+tensorflow-macos; platform_system == "Darwin"
+tensorflow-metal; platform_system == "Darwin"  # Acelera en M1/M2/M3
+scikit-learn>=1.2.0
+scikeras>=0.11.0
+keras>=2.16.0
+
+# Otras dependencias
+protobuf>=3.19.0  # Evita conflictos en TensorFlow
