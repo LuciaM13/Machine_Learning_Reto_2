@@ -9,3 +9,8 @@
 03_Models/random_forest.pkl filter=lfs diff=lfs merge=lfs -text
 03_Models/red_neuronal.pkl filter=lfs diff=lfs merge=lfs -text
 03_Models/svm.pkl filter=lfs diff=lfs merge=lfs -text
+00_Data/Cleaned/test_clean.csv filter=lfs diff=lfs merge=lfs -text
+00_Data/Cleaned/train_clean.csv filter=lfs diff=lfs merge=lfs -text
+03_Models/red_neuronal.pkl03_Models/svm.pkl filter=lfs diff=lfs merge=lfs -text
+00_Data/Cleaned/train_winsorized_clean.csv filter=lfs diff=lfs merge=lfs -text
+03_Models/scaler.pkl filter=lfs diff=lfs merge=lfs -text
